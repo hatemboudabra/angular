@@ -1,0 +1,45 @@
+.landing-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #007bff; 
+    color: #ffffff; 
+    padding: 10px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  .features {
+    padding: 50px ;
+    background-color: #f8f9fa;
+  }
+  
+  .features h2 {
+    color: #007bff; 
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .testimonial {
+    margin-top: 20px;
+  }
+  
+  .testimonial img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
